@@ -30,7 +30,7 @@ To run OCRify, ensure you have the following:
 
    ```bash
    git clone https://github.com/Diivxblo/Ocrify.git  
-   cd OCRify  
+   cd Ocrify  
    ```
 
 2. Set up the backend server:

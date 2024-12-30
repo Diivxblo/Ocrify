@@ -56,6 +56,10 @@ OCRify leverages the power of these technologies:
 - **Dart** as the programming language for Flutter.
 - **Google ML Kit** for text recognition.
 - **OpenCV** for image processing.
+- **Pytesserect** and **KerasOCR** for image enhancement.
+- **EasyOCR** for printed-text detection.
+- **EAST Model** for Handwritten/printed-text detection.
+- **PySpellChecker** for correction and adjustment.
 
 ---
 

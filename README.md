@@ -29,7 +29,7 @@ To run OCRify, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Diivxblo/Ocrify.git  
+   git clone https://github.com/MohammedEssamJr/Ocrify.git  
    cd Ocrify  
    ```
 
@@ -71,7 +71,7 @@ Contributions are welcome! If you'd like to improve the app or add new features,
 
 ## 🐛 Issues
 
-If you encounter any issues or have feature requests, please [open an issue](https://github.com/Diivxblo/Ocrify/issues).
+If you encounter any issues or have feature requests, please [open an issue](https://github.com/MohammedEssamJr/Ocrify/issues).
 
 ---
 
